@@ -11,7 +11,9 @@ public class Maximum {
         // Find the maximum of x and y
         int max = Math.max(x, y);
 
-        System.out.println("The maximum value is: " + max); // Output: 20
+        System.out.println("The maximum value is: " + max);
+        System.out.println(x);
+        System.out.println(y);// Output: 20
     }
 }
 

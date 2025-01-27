@@ -16,7 +16,7 @@ public class FlipCoin {
 
         if ( chance < .5){
             System.out.println("Tails!!");
-        } 
+        }
 
     }
 }
